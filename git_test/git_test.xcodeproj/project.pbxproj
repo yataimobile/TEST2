@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EAC80135219287080020FD6A /* BoHanTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAC80134219287080020FD6A /* BoHanTest.swift */; };
 		F43C48292192803600545467 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F43C48282192803600545467 /* AppDelegate.swift */; };
 		F43C482B2192803600545467 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F43C482A2192803600545467 /* ViewController.swift */; };
 		F43C482E2192803600545467 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F43C482C2192803600545467 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EAC80134219287080020FD6A /* BoHanTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoHanTest.swift; sourceTree = "<group>"; };
 		F43C48252192803600545467 /* git_test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = git_test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F43C48282192803600545467 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F43C482A2192803600545467 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				F43C482F2192803800545467 /* Assets.xcassets */,
 				F43C48312192803800545467 /* LaunchScreen.storyboard */,
 				F43C48342192803800545467 /* Info.plist */,
+				EAC80134219287080020FD6A /* BoHanTest.swift */,
 			);
 			path = git_test;
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				F43C482B2192803600545467 /* ViewController.swift in Sources */,
 				F43C48292192803600545467 /* AppDelegate.swift in Sources */,
+				EAC80135219287080020FD6A /* BoHanTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
